@@ -7,5 +7,5 @@ This game is developed using python and pygame-module.In this game there is one 
 ----
 
 <p align="center">
-  <img src="hitman_hover_gif.gif"> 
+  <img src="hitman_hover.gif"> 
 </p>
