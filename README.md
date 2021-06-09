@@ -1,5 +1,9 @@
 # PYTHON_PROJECTS
 
+<p align="center">
+  <img src="python.png"> 
+</p>
+
 ----
 ----
 
