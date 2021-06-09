@@ -1,9 +1,6 @@
 # PYTHON_PROJECTS
 
 ----
-<p align="center">
-<img src="pygame_logo.gif">
-</p>
 ----
 
   ## [BASICS](https://github.com/aditya-2703/PYTHON_PROJECTS)
