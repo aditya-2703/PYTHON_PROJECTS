@@ -7,5 +7,5 @@ In this project i build an program with the use of python. For gui interface tki
 ----
 
 <p align="center">
-   <img src="news_paper_gif.gif">
+   <img src="newspaper_gif.gif">
 </p>
