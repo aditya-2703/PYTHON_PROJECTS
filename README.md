@@ -1,7 +1,7 @@
 # PYTHON_PROJECTS
 
 <p align="center">
-  <img src="python.png"> 
+  <img width="200" src="python.png"> 
 </p>
 
 ----
