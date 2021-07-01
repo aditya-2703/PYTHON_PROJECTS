@@ -4,7 +4,7 @@
   <img width="200" src="python.png"> 
 </p>
 
-----
+
 
   ## [BASICS](https://github.com/aditya-2703/PYTHON_PROJECTS)
   * [LOVE CALCULATOR](https://github.com/aditya-2703/PYTHON_PROJECTS/tree/main/LOVE_CALCULATOR)
