@@ -13,7 +13,7 @@ This game is developed using python and pygame-module.In this game there is one 
 
  * In this game you can move with arrow  keys on keyboard.
  * For firing bullets you can use space key
- * If you hit bullet to enemy then your score increases and if they touch you then game ends. 
+ * If you hit bullet to enemy then your score increases and if they hit you then score decreases. 
 
 
 ## What it looks like
