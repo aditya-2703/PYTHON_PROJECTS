@@ -13,7 +13,8 @@ This game is developed using python and pygame-module.In this game there is one 
 
  * In this game you can move with arrow  keys on keyboard.
  * For firing bullets you can use space key
- * If you hit bullet to enemy then your score increases and if they hit you then score decreases. 
+ * If you hit bullet to enemy then your score increases and if they hit you then his score increases.
+ * The game ends where the score of enemy is greater than score of hitman or user 
 
 
 ## What it looks like
