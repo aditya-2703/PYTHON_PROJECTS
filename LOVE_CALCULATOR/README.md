@@ -10,6 +10,7 @@ This project is build using python in which i used tkinter for gui interface whe
  *  After installing python you have to install tkinter module
  *  For gui interface - `pip install tk`
  *  For working with images - `pip install pillow`
+ *  Api used here - `https://rapidapi.com/ajith/api/love-calculator`
 
 # How to run modules
 
