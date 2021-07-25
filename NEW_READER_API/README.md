@@ -9,6 +9,7 @@ In this project i build an program with the use of python. For gui interface tki
  *  After installing python you have to install tkinter module
  *  For gui interface - `pip install tk`
  *  For working with images - `pip install pillow`
+ *  Api that used here - `https://newsapi.org/`
 
 # How to run modules
 
